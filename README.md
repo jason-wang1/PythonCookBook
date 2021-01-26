@@ -18,8 +18,8 @@
 
 ### 1.2 [dict](https://github.com/jason-wang1/PythonCookBook/blob/master/1_data_structure/2_dict.ipynb)
 1. 字典中的键映射多个值
-2. 字典排序
-3. 字典的运算
-4. 两字典比较
+2. 字典排序（按输入顺序排序）
+3. 字典的运算（最小值、最大值）
+4. 两字典比较（交集、并集、差集）
 5. 从字典中提取子集（字典过滤）
 6. 合并多个字典或映射
