@@ -26,5 +26,5 @@
 12. 画图
 
 
-![alt text](https://github.com/jason-wang1/PythonCookBook/raw/master/docs/pandas_2-1)
-![alt text](https://github.com/jason-wang1/PythonCookBook/raw/master/docs/pandas_2-2)
+![alt text](https://github.com/jason-wang1/PythonCookBook/raw/master/docs/pandas_2-1.jpeg)
+![alt text](https://github.com/jason-wang1/PythonCookBook/raw/master/docs/pandas_2-2.jpeg)
