@@ -14,8 +14,8 @@
 ### DataFrame
 1. 创建 DataFrame
 2. 数据规整
-3. 按行选择 / 按列选择数据
-5. Reshape
+3. Reshape
+4. 按行选择 / 按列选择数据
 6. 数据聚合统计
 7. groupby
 8. 缺失值处理
